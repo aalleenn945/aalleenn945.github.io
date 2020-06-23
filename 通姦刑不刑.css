@@ -52,10 +52,10 @@ body{
 }
 
 footer>div.container-fluid {
-    background-color: #606060;
+    background-color: #9F353A;
     height: 100px;
     text-align: center;
-	color: #a9abad;
+	color: #D05A6E;
 }
 
 .copyright{
@@ -63,7 +63,7 @@ footer>div.container-fluid {
 }
 
 body {
-	background-color: #999999
+	background-color: #e05A6E
 }
 
 .wrapper{
@@ -73,7 +73,7 @@ body {
 .container-lg {
 	width: 60%;
 	padding: 4vw;
-	background-color: #808080;
+	background-color: #bb4545;
 	padding-top: 20px;
 }
 
@@ -137,4 +137,14 @@ h1{
 
 h2{
 	line-height: 1.5;
+}
+
+.card-link{
+	color: #bb4545;
+}
+
+.card{
+	background-color: #f5c0a4;
+	border-radius: 20px;
+
 }
